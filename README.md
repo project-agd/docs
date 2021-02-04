@@ -11,3 +11,14 @@ pip install -r requirements.txt
 
 ## Architecture
 ![Architecture](architecture/architecture.png)
+
+
+## Contacts
+
+**Juneseok Byun**
+- byun@hbsmith.io
+- byunjuneseok@gmail.com
+- https://www.linkedin.com/in/byunjuneseok/
+
+**Youngrae Kim**
+- nahappy15@naver.com
