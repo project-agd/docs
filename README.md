@@ -2,7 +2,7 @@
 
 ## Introduction
 ### Motivation
-- Personalize and enhance our life.
+- There's no personalized food choice service that fully automated in the market.
 
 ### Two Different goals
 - Build the AI model could replace humans insight. (Restaurant recommendation model.)
