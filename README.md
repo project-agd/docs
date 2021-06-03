@@ -1,5 +1,15 @@
 # Documentation
 
+## Contacts
+
+[**Juneseok Byun**](https://github.com/byunjuneseok)
+- byunjuneseok@gmail.com / byun@hbsmith.io
+- [linkedin](https://www.linkedin.com/in/byunjuneseok/)
+
+[**Youngrae Kim**](http://github.com/youngraekimm)
+- nahappy15@naver.com
+
+
 ## Introduction
 ### Motivation
 - There's no personalized food choice service that fully automated in the market.
@@ -88,13 +98,3 @@ Our final goal is to launch product. We made a [github organization profile](htt
 | … |  |  |
 
 
-
-
-## Contacts
-
-[**Juneseok Byun**](https://github.com/byunjuneseok)
-- byunjuneseok@gmail.com / byun@hbsmith.io
-- [linkedin](https://www.linkedin.com/in/byunjuneseok/)
-
-[**Youngrae Kim**](http://github.com/youngraekimm)
-- nahappy15@naver.com
